@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25371
     wikipedia: http://pt.wikipedia.org/wiki/Alberto_Pimentel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33581#Vinte-Annos-de-Vida-Litteraria
 gutenberg_issued: '2010-08-30'
 gutenberg_type: Text
 identifiers:
